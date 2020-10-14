@@ -1,0 +1,148 @@
+/* :root{--button-blue: #2196F3; 
+    --button-white: #FFFFFF;
+    --bgn-main-color: #FFFFFF;
+    --bgn-second-color: #F5F4FA;
+    --main-text-color: #212121;
+    --second-text-color:  #757575;
+    --footer-color:#2F303A;
+} */
+
+body{
+ font-family: 'Roboto', sans-serif;
+}
+/* header */
+/* .header{
+    for inline
+} */
+.logo-header{
+    color:#212121;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+.logo-text-web{
+    color:#2196F3;
+}
+.header-link{
+    color: #212121;
+}
+.header-link:hover,
+.header-link:focus{
+    color: #2196F3;
+}
+.adress-link{
+    color: #757575;
+}
+.adress-link:hover,
+.adress-link:focus{
+    color: #2196F3;
+}
+/* hero */
+.hero-section{
+    background-color: #2F303A;
+}
+.hero-title{
+    color:#FFFFFF;
+    text-transform: uppercase;
+}
+.hero-link{
+    background-color:#2196F3 ;
+    color:#FFFFFF;  
+}
+.hero-link:hover,.hero-link:focus{
+    background-color:#FFFFFF;
+    color:#2196F3;  
+}
+
+/* about us */
+/* .about-us-section{
+    for blocks inline
+} */
+.about-us-title{
+    color:#212121;
+    font-weight: 700;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.about-us-info{
+    color:#757575;
+    font-weight: 400;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+}
+/* what we do */
+
+/* .what-we-do-section{
+    for img
+} */
+.what-we-do-title{
+    color:#212121;
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+}
+/* our team */
+.our-team-section{
+    background-color: #F5F4FA;
+}
+.our-team-title{
+    font-weight: 700;
+    font-size: 36px;
+    letter-spacing: 0.03em;
+}
+.team-card{
+    background-color:#FFFFFF ;
+}
+.name-our-team{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.03em;  
+}
+.position-our-team{
+    color:#757575;
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.03em;  
+}
+/* section filter */
+/* .filter{
+    for forms
+} */
+.filter-link{
+    background-color:#F5F4FA ;
+    color:#212121;  
+}
+.filter-link:hover,
+.filter-link:focus, 
+.filter-link:active{
+    background-color:#2196F3;  
+     color:#FFFFFF;  
+}
+/* .our-project{
+    for table
+} */
+
+.our-project-card{
+    border: 1px solid #EEEEEE;
+}
+/* footer */
+
+.footer-section{
+    background-color:#2F303A;
+}
+.logo-footer{
+    color:#FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+.adress{
+    color:#FFFFFF60;
+}
+.adress:hover,.adress:focus{
+    color:#2196F3;  
+}
+
+.adress-part{
+    color:#FFFFFF;
+}
